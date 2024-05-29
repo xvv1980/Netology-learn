@@ -15,5 +15,10 @@ https://hub.docker.com/repository/docker/xvv1980/custom-nginx/general
  # Задача 5
  ![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/08ba8bac-71a1-4c2e-9e43-280f3f63f5c0)
     Был выполнен файл compose.yaml, так как для новой версии он считается предпочтительным. Так же определяется и docker-compose.yaml, для совместимости со старыми версиями.
+    ![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/d7672f0b-ef10-40d4-bb95-bc403b45a37a)
+    Добавлена директива include
+    ![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/e8c15fc2-8cec-4bc7-a755-f60900af9456)
+![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/58a28a37-96a0-4c23-947e-8ffc3ade557f)
+Залили образ
 
 
