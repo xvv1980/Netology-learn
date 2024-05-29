@@ -20,5 +20,13 @@ https://hub.docker.com/repository/docker/xvv1980/custom-nginx/general
     ![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/e8c15fc2-8cec-4bc7-a755-f60900af9456)
 ![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/58a28a37-96a0-4c23-947e-8ffc3ade557f)
 Залили образ
+![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/820c2542-838b-490c-a36c-75264708a004)
+Удалил compose.yaml
+![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/1ce5fdab-c949-44c6-863b-11987121bdd6)
+Пропало описание у запущенного контейнера, "осиротел". Предлагают избавится от этого контейнера и привести все в соотвествие используя флаг --remove-orphans
+![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/a2b13a0c-906f-48e1-af3b-350b32572c4a)
+
+
+
 
 
