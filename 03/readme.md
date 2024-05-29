@@ -13,5 +13,7 @@ https://hub.docker.com/repository/docker/xvv1980/custom-nginx/general
  # Задача 4
 ![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/c67709be-3902-45d3-a835-de46ba7e3080)
  # Задача 5
- 
+ ![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/08ba8bac-71a1-4c2e-9e43-280f3f63f5c0)
+    Был выполнен файл compose.yaml, так как для новой версии он считается предпочтительным. Так же определяется и docker-compose.yaml, для совместимости со старыми версиями.
+
 
