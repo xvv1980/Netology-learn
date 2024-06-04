@@ -14,5 +14,7 @@
 
 ![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/19dc2785-ad03-4526-9145-c844e2cf6c51)
 
+[Bash-скрипт](run.sh)
+
 
 
