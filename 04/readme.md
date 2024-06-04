@@ -19,5 +19,9 @@
 Ссылка на fork-репозиторий
 https://github.com/xvv1980/shvirtd-example-python.git
 
+*
+![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/83a33dd5-c321-47ea-9f55-09bac10ae823)
+
+
 
 
