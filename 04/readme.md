@@ -16,5 +16,8 @@
 
 [Bash-скрипт](run.sh)
 
+Ссылка на fork-репозиторий
+https://github.com/xvv1980/shvirtd-example-python.git
+
 
 
