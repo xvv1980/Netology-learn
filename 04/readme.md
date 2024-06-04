@@ -23,6 +23,15 @@ https://github.com/xvv1980/shvirtd-example-python.git
 ![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/83a33dd5-c321-47ea-9f55-09bac10ae823)
 
 ## Задача 6*
+![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/42fc6a8d-d2f6-4779-a325-aabcaafb82db)
+
+Находим слой с файлом 
+
+![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/74f6763b-97e1-4575-84d6-10b904006c8a)
+
+Сохраняем образ в архив, по id находим каталог с архивом layer.tar. В нем и будет исполняемый файл
+![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/9572e721-df15-4cfa-b81d-b4bfbb144311)
+
 
 
 ## Задача 6.1
