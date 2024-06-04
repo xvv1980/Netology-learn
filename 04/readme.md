@@ -10,6 +10,7 @@
  ![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/332be58b-c9fa-4407-a33e-9e2255b42b80)
 
 ## Задача 4
+![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/2c0da805-02fc-4891-a345-43f49d4a723f)
 
 ![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/19dc2785-ad03-4526-9145-c844e2cf6c51)
 
