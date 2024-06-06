@@ -37,6 +37,8 @@ https://github.com/xvv1980/shvirtd-example-python.git
 ## Задача 6.1
 ![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/321083a1-de28-4dd7-a651-60fb3f7ab7ad)
 
+## Задача 6.2
+![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/586c0176-a463-4512-86b8-596cac51e5cb)
 
 
 
