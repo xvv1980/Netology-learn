@@ -22,6 +22,20 @@
 │   on main.tf line 29, in resource "docker_container" "1nginx":
 │   29: resource "docker_container" "1nginx" {
  Имя ресурса должно начинаться с буквы или подчеркивания, в нашем случае с цифры, что не верно.
+
+ 
+│ Error: Reference to undeclared resource
+│ 
+│   on main.tf line 31, in resource "docker_container" "nginx":
+│   31:   name  = "example_${random_password.random_string_FAKE.resulT}"
+Ресурс с именем random_string_FAKE не объявлен.
+
+Error: Unsupported attribute
+│ 
+│   on main.tf line 31, in resource "docker_container" "nginx":
+│   31:   name  = "example_${random_password.random_string.resulT}"
+│ 
+  Опечатка в регистре атрибута
   
 ## Задание 2
 
