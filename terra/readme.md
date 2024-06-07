@@ -13,7 +13,7 @@
   `"result": "K1F2eakhZEHxU7sF",`
 
   1.4  
-  `Error: Missing name for resource `
+  `Error: Missing name for resource `  
   Описание ресурса должно состоять из двух состовляющих: тип и имя. В нашем случае
   resource "docker_image"  {....}. Указан только тип, нехватает имени, о чем и сообщает terraform
 
