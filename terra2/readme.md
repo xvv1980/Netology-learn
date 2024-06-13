@@ -26,6 +26,11 @@ https://github.com/xvv1980/hw-terra2.git
 ### 4
 ![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/ca8f9248-9774-43d1-9130-33ee84bd801a)
 
+## Задача 9
+![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/b58973a5-bfdf-4fbc-a4dd-ba8ce8d47640)
+
+![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/f161b5b8-1b7d-45d4-ad83-52a01dff5f2a)
+
 
 
 
