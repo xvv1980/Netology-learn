@@ -12,7 +12,10 @@
 ## Задача 4
 ![изображение](https://github.com/xvv1980/Netology-learn/assets/169840386/27815ffe-b36b-47d7-af85-2a5ba58b3831)
 
-
+## Ссылка на репозиторий
 https://github.com/xvv1980/hw-terra2.git
+
+## Задача 7
+
 
 
